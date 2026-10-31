@@ -1,0 +1,6 @@
+# 複製成 local.properties（此檔不要 commit）
+# Android Studio 會自動寫入 sdk.dir
+sdk.dir=C\:\\Users\\你的帳號\\AppData\\Local\\Android\\Sdk
+
+# Google Cloud 的 Maps／Directions／Places 金鑰
+MAPS_API_KEY=你的金鑰
